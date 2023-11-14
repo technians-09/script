@@ -1,5 +1,5 @@
 // tracking-script.js
-
+console.log("satendratracl")
 // Function to get user IP address
 function getUserIpAddress() {
     return fetch('https://api.ipify.org?format=json')
